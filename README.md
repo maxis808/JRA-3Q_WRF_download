@@ -9,7 +9,7 @@ Output files are stored in the output_path directory.
 
 Soil porosity is assumed constant (0.43 by default) and can be changed.
 
-By default output filenames contain only dates. pref can be give prefix to the filenames.
+By default output filenames contain only dates. pref can be changed to give prefix to the filenames.
 
 Modified METGRID.TBL file is provided.
 
